@@ -30,7 +30,7 @@ def process_image(input_image):
 
 st.title("Vehicle Detection and Counting App for Image inputs")
 st.info("`TEAM SIRIUS _ SMART INDIA HACKATHON`")
-st.success("R. Krishna Advaith Siddhartha , S. Ravi Teja R. Bhoomika    , V. Subhash    , K. Nakshatra    , M. Abhinav")
+st.success("R. Krishna Advaith Siddhartha , S. Ravi Teja   ,   R. Bhoomika    , V. Subhash    , K.R. Nakshathra    , M. Abhinav")
 st.write("Upload an image to detect vehicles and categorize them.")
 st.markdown("""*We have tried using images as our inputs in the first stage , and these are the results we have obtained . We have also presented our testing programme which is requested to be kept confidential. We have tried integrating our idea into a streamlit app , that is easy and efficient to deploy ( as a simulation ). 
 This Streamlit app performs vehicle detection and counting using the YOLOv8 model, which is one of the state-of-the-art object detection architectures. The app is designed to allow users to upload images and get results with vehicle counts and types in real time.*
